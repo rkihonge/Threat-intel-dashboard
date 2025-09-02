@@ -1,4 +1,7 @@
 
+---
+
+## 📄 data/sample_threat_data.csv
 ```csv
 Indicator,Type,Severity,Source,Date
 192.168.10.45,IP,High,AbuseIPDB,2025-08-10
