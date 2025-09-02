@@ -1,0 +1,8 @@
+
+```csv
+Indicator,Type,Severity,Source,Date
+192.168.10.45,IP,High,AbuseIPDB,2025-08-10
+malicious-site.com,Domain,Medium,AlienVault OTX,2025-08-12
+abcd1234efgh5678,Hash,Critical,Virustotal,2025-08-15
+203.0.113.99,IP,Low,Spamhaus,2025-08-16
+phishing-login.net,Domain,High,PhishTank,2025-08-17
