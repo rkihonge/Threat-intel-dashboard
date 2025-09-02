@@ -9,5 +9,3 @@ It loads sample threat data (IPs, domains, CVEs) and visualizes them for securit
 - Show charts of top threats by category
 - Export filtered data to CSV
 - Easy to extend with real APIs (AlienVault OTX, AbuseIPDB, etc.)
-
-## Project Structure
